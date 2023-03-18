@@ -44,6 +44,8 @@ This will hopefully tie in some broad sense to the Wiki pages. (Note: I have cho
 
 ## Join in – thoughts welcome from business and academia. Help certainly needed!
 I very much welcome any thoughts from professional programmers, Excel enthusiasts, Academics and Analysts/Associates/MDs from the Commercial Real Estate field. Please feel free to make Pull Requests – whether they are for contributions to Lambda Excel technicalities or the narrative/general approach to the notes.
+- Issues may help contribute to goals, change direction, add another string to an investigation, etc.
+- Pull requests can help fix any Lambda / Excel documentation placed in Code.
 
 Lambda and Excel technical worksheet content are subject to MIT licence (Code tab).  Please contact me if you wish to use my general writing, narrative and/or musings (Wiki / Projects tab).
 
