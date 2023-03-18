@@ -11,7 +11,7 @@ Join the group on LinkedIN: https://www.linkedin.com/groups/9021786/
 
 ## The problem
 
-### The Excel cash flows models built to invest in the largest asset class are too complex to build, edit and audit in a reliable manner.
+### Excel cash flows models built to invest in the largest asset class are too complex to build, edit and audit in a reliable manner.
 
 CRE is the largest asset class in the world and has gone through a journey of professionalisation since the 1980s.  While now accepted alongside mainstream portfolio choices like bonds and equities, the state of underwriting in order to invest in this asset class is in need of improvement.  Investors such as Fund Managers, Private Equity Houses, Sovereign Wealth Funds, Family Offices and their advisors, brokers and lenders all suffer from similar paintpoints.  How to process, underwrite and project different scenarios with a degree of ease, transparency and agility in the workplace.
 
