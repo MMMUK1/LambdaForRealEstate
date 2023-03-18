@@ -6,6 +6,9 @@ This is a repo for multi-disciplinary research into Microsoft Excel Lambda and R
 ## Welcome
 Here we explore newly-released Lambda formulae for Excel. In particular how this can strenthen, improve, simplify Institutional Real Estate Cash Flows in Excel for Commercial Real Estate ('CRE') purposes.
 
+Join the group on LinkedIN: https://www.linkedin.com/groups/9021786/
+
+
 ## The problem
 
 ### The Excel cash flows models built to invest in the largest asset class are too complex to build, edit and audit in a reliable manner.
