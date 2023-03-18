@@ -4,7 +4,7 @@ This is a repo for multi-disciplinary research into Microsoft Excel Lambda and R
 ![ExcelAbstractionBanner](https://user-images.githubusercontent.com/6385058/226100282-2cd67eef-2942-4cee-918f-21520380bec9.png)
 
 ## Welcome
-Here we explore newly-released Lambda formulae for Excel. In particular how this can strenthen, improve, simplify Institutional Real Estate Cash Flows in Excel for Commercial Real Estate ('CRE') purposes.
+Here we explore newly-released Lambda formulae for Excel. In particular how this can strengthen, improve, simplify Institutional Cash Flows in Excel for Commercial Real Estate ('CRE') purposes.
 
 Join the group on LinkedIN: https://www.linkedin.com/groups/9021786/
 
@@ -54,4 +54,5 @@ Lambda and Excel technical worksheet content are subject to MIT licence (Code ta
 
 Best wishes,
 
-Michael P. Molloy – 18-Mar-2023.
+Mike Molloy
+18-Mar-2023
