@@ -38,7 +38,8 @@ There will be two main strands to this repository:
 
 ### 1. Notes, chapters and musings will be in the Wiki pages.
 
-### 2. Lambda and Excel work in the Code section. This will hopefully tie in some broad sense to the Wiki pages. (Note: I have chosen traditional Github rather than any specialised Git repo for *.xlsx diffs.  I believe the popularity of Github is important for potential multi-disciplinary feedback from a wider user base - plus I'm not sure whether *.xlsx diffs tracking is relevant for my research project).
+### 2. Lambda and Excel work in the Code section.
+This will hopefully tie in some broad sense to the Wiki pages. (Note: I have chosen traditional Github rather than any specialised Git repo for *.xlsx diffs.  I believe the popularity of Github is important for potential multi-disciplinary feedback from a wider user base - plus I'm not sure whether *.xlsx diffs tracking is relevant for my research project).
 
 
 ## Join in – thoughts welcome from business and academia. Help certainly needed!
