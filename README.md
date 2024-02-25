@@ -1,24 +1,31 @@
 # Lambda For Real Estate
-This is a repo to create Lambda library for Discounted Cash Flows ('DCF'). The library is mostly geared to Commercial Real Estate examples, but the underlying LAMBDA principles serve DCF purposes across sectors.
+This is a an online repository to create Lambda library for Discounted Cash Flows ('DCF'). The library is mostly geared to Commercial Real Estate examples, but the underlying LAMBDA principles serve DCF purposes across sectors.
 
 ![ExcelAbstractionBanner](https://user-images.githubusercontent.com/6385058/226100282-2cd67eef-2942-4cee-918f-21520380bec9.png)
 
 ## Welcome
 
-You can also join the group on LinkedIN: https://www.linkedin.com/groups/9021786/
+Welcome! Here we explore how to make cashflow life exponentially easier for everyone.
 
-## Objective
+## Who is this for?
 
-An organised library of LAMBDA functions should enable the faster assembly of an institutional cash flow.
+It is for primarily professionals that already have built a cash flow Excel model for real estate investments. Discounted Cash Flow modellers in othe industries may also find the principles to be universally useful.
 
-An institutional cash flow model template can take over a year to scope, specify, design, implement, test for feedback and check via a proper audit. A single library can provide consistency, reliability and confidence by satisfying the essential Discounted Cash Flow requirements.
+This Github is also linked to LinkedIN group: https://www.linkedin.com/groups/9021786/. 
 
-## Join in – thoughts welcome from business and academia. Help certainly needed!
-I very much welcome any thoughts from professional programmers, Excel enthusiasts, Academics and Analysts/Associates/MDs from the Commercial Real Estate field. Please feel free to make Pull Requests – whether they are for contributions to Lambda Excel technicalities or the narrative/general approach to the notes.
-- Issues may help contribute to goals, change direction, add another string to an investigation, etc.
-- Pull requests can help fix any Lambda / Excel documentation placed in Code.
+## Write formulas only ONCE 
 
-Lambda and Excel technical worksheet content are subject to MIT licence (Code tab).  Please contact me if you wish to use my general writing, narrative and/or musings (Wiki / Projects tab).
+The key objective is simple: write formulae once and avoid 'reinventing the wheel' in future real estate models. Imagine the team possibilities back at the office and time saving for winning new business.
+
+Most professionals in Commercial Real Estate (CRE) remain unaware of the opportunities: i.e. If you created cashflow models for your team before 2022, it is time to brush up on new possibilities introduced since then.
+
+Watch out for training companies, college courses & CPD time that still teach old pre-COVID ways of cashflow modelling. It's a new ball game out there. Knowing the difference elevates real estate underwriting skills to a whole new league of productivity.
+
+## Approach
+
+To avoid 'a solution finding a problem' tech syndrome, this repository is for addressing real estate questions first and answering them from a Lambda perspective.
+
+Do post questions/ideas to make this group as useful as possible. Keep it CRE and Excel related! Thanks.
 
 Best wishes,
 
